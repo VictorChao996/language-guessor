@@ -95,8 +95,8 @@ node index.js "random sentance in any language..."
 > - Some languages code were not recognized by the package.
 
 > **Note**
-> The search methods was provided by the ["franc"](https://github.com/wooorm/franc) package.
-> The transfer methods was provided by the ["lang"](https://github.com/adlawson/nodejs-langs) package. 
+> - The search methods was provided by the ["franc"](https://github.com/wooorm/franc) package.
+> - The transfer methods was provided by the ["lang"](https://github.com/adlawson/nodejs-langs) package. 
 
 
 
